@@ -86,6 +86,12 @@ device.close()                            # Verbindung beenden – immer am Ende
 ## Häufige Probleme
 Siehe [HANDHABUNG.md](HANDHABUNG.md) (Bedienung) und die Fehlersuche-Tabelle in der [INSTALLREADME.md](INSTALLREADME.md) (Installation).
 
+## Wie es weitergeht
+Auf diesem Grundprojekt bauen drei Aufbauprojekte auf (jeweils in demselben Clone-Ordner weiterarbeiten):
+1. [DOBOT-Sprach-Steuerung-KI-basic](https://github.com/ThorstenSmit/DOBOT-Sprach-Steuerung-KI-basic): Der Dobot wird per Sprache über eine Cloud-KI gesteuert, mit Sicherheitsvalidierung.
+2. [DOBOT-Vision-Steuerung-KI-advanced](https://github.com/ThorstenSmit/DOBOT-Vision-Steuerung-KI-advanced): Eine Webcam überwacht den Tisch, eine Bild-KI entscheidet, der Dobot führt Jobs aus.
+3. [DOBOT-Lernender-Greifer-KI-expert](https://github.com/ThorstenSmit/DOBOT-Lernender-Greifer-KI-expert): Der Dobot lernt aus eigener Erfahrung, besser zu greifen.
+
 ## Weiterführend
 - `pydobot` auf PyPI: <https://pypi.org/project/pydobot/>
 - Offizielle Dobot-Downloads: <https://www.dobot-robots.com/>
