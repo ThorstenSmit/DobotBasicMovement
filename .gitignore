@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.idea/
+
+# Große Installer passen nicht auf GitHub (Limit 100 MB pro Datei) -> nur lokal / per Schul-Laufwerk
+software&driver/*.exe
