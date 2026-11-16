@@ -89,3 +89,6 @@ Siehe [HANDHABUNG.md](HANDHABUNG.md) (Bedienung) und die Fehlersuche-Tabelle in 
 ## Weiterführend
 - `pydobot` auf PyPI: <https://pypi.org/project/pydobot/>
 - Offizielle Dobot-Downloads: <https://www.dobot-robots.com/>
+
+## Lizenz
+Der Code und die Anleitungen dieses Projekts stehen unter der [MIT-Lizenz](LICENSE). Für den mitgelieferten CP210x-Treiber (`software&driver/`) gilt die Lizenz von Silicon Labs, die in der ZIP-Datei beiliegt.
