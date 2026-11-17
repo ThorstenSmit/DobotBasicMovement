@@ -92,6 +92,8 @@ Auf diesem Grundprojekt bauen drei Aufbauprojekte auf (jeweils in demselben Clon
 2. [DOBOT-Vision-Steuerung-KI-advanced](https://github.com/ThorstenSmit/DOBOT-Vision-Steuerung-KI-advanced): Eine Webcam überwacht den Tisch, eine Bild-KI entscheidet, der Dobot führt Jobs aus.
 3. [DOBOT-Lernender-Greifer-KI-expert](https://github.com/ThorstenSmit/DOBOT-Lernender-Greifer-KI-expert): Der Dobot lernt aus eigener Erfahrung, besser zu greifen.
 
+**Kein Dobot an der Schule?** Für den Einstieg in Physical AI ohne Roboterarm gibt es [PhysicalAI-Sortierweiche-Webcam-basic](https://github.com/ThorstenSmit/PhysicalAI-Sortierweiche-Webcam-basic): Webcam, KI und eine Anlage (Simulation oder Siemens-SPS).
+
 ## Weiterführend
 - `pydobot` auf PyPI: <https://pypi.org/project/pydobot/>
 - Offizielle Dobot-Downloads: <https://www.dobot-robots.com/>
